@@ -1,0 +1,183 @@
+/* ==UserStyle==
+@name         Sistema del Monarca (GitHub)
+@namespace    github.com/martin15006
+@version      1.0.0
+@description  GitHub en violeta de sombras, a juego con el perfil de martin15006. Solo cambia lo que ves vos en tu navegador.
+@author       martin15006
+@license      MIT
+@homepageURL  https://github.com/martin15006/martin15006
+@updateURL    https://raw.githubusercontent.com/martin15006/martin15006/main/tema/sistema-del-monarca.user.css
+==/UserStyle== */
+
+@-moz-document domain("github.com") {
+
+  /* --------------------------------------------------------------------------
+     Paleta. Cada color significa algo:
+       violeta -> la base de todo (marcos, enlaces, acentos)
+       verde   -> sigue siendo "éxito" (merge, checks): no se toca
+       rojo    -> sigue siendo "peligro": no se toca
+     Se sobreescriben las variables de GitHub (Primer), no sus clases: así el
+     tema aguanta los cambios de la interfaz.
+     -------------------------------------------------------------------------- */
+  html,
+  [data-color-mode],
+  [data-dark-theme],
+  [data-light-theme] {
+    color-scheme: dark !important;
+
+    /* fondos */
+    --bgColor-default: #07040d !important;
+    --bgColor-muted: #0e0720 !important;
+    --bgColor-inset: #040208 !important;
+    --bgColor-emphasis: #2b1853 !important;
+    --bgColor-neutral-muted: #7c3aed26 !important;
+    --bgColor-neutral-emphasis: #4c1d95 !important;
+    --bgColor-accent-muted: #7c3aed1f !important;
+    --bgColor-accent-emphasis: #7c3aed !important;
+    --overlay-bgColor: #0e0720 !important;
+    --control-bgColor-rest: #150a2b !important;
+    --control-bgColor-hover: #1d1040 !important;
+    --control-bgColor-active: #261552 !important;
+
+    /* texto */
+    --fgColor-default: #ece6ff !important;
+    --fgColor-muted: #9a8cc4 !important;
+    --fgColor-accent: #c4b5fd !important;
+    --fgColor-link: #c4b5fd !important;
+
+    /* bordes */
+    --borderColor-default: #2b1853 !important;
+    --borderColor-muted: #2b1853b3 !important;
+    --borderColor-neutral-muted: #2b1853 !important;
+    --borderColor-accent-emphasis: #7c3aed !important;
+    --borderColor-accent-muted: #7c3aed66 !important;
+    --control-borderColor-rest: #3b2a66 !important;
+
+    /* encabezado */
+    --header-bgColor: #0a0518f2 !important;
+    --header-borderColor-divider: #4c1d95 !important;
+    --headerSearch-bgColor: #150a2b !important;
+
+    /* botones: el "primario" (antes verde) pasa a violeta */
+    --button-primary-bgColor-rest: #6d28d9 !important;
+    --button-primary-bgColor-hover: #7c3aed !important;
+    --button-primary-bgColor-active: #5b21b6 !important;
+    --button-primary-borderColor-rest: #a78bfa66 !important;
+    --button-primary-borderColor-hover: #c4b5fd88 !important;
+    --button-primary-fgColor-rest: #ffffff !important;
+    --button-default-bgColor-rest: #150a2b !important;
+    --button-default-bgColor-hover: #1d1040 !important;
+    --button-default-bgColor-active: #261552 !important;
+    --button-default-borderColor-rest: #3b2a66 !important;
+
+    /* pestañas, foco y selección */
+    --underlineNav-borderColor-active: #8b5cf6 !important;
+    --focus-outlineColor: #a78bfa !important;
+    --selection-bgColor: #7c3aed99 !important;
+
+    /* gráfico de contribuciones: del vacío a la luz */
+    --contribution-default-bgColor-0: #150a2b !important;
+    --contribution-default-bgColor-1: #3b1a73 !important;
+    --contribution-default-bgColor-2: #5b21b6 !important;
+    --contribution-default-bgColor-3: #7c3aed !important;
+    --contribution-default-bgColor-4: #c4b5fd !important;
+
+    /* tipografía: si tenés instaladas Oxanium y JetBrains Mono, las usa; si no, no pasa nada */
+    --fontStack-monospace: 'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, monospace !important;
+  }
+
+  /* --------------------------------------------------------------------------
+     Decoración (todo con selectores estables, nada de clases con hash)
+     -------------------------------------------------------------------------- */
+
+  /* Brillo ambiental sobre toda la página: sutil, no tapa ni bloquea nada */
+  body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 5;
+    pointer-events: none;
+    mix-blend-mode: screen;
+    background:
+      radial-gradient(60vmax 40vmax at 12% -6%, rgba(124, 58, 237, 0.13), transparent 70%),
+      radial-gradient(50vmax 36vmax at 104% 104%, rgba(139, 92, 246, 0.09), transparent 70%);
+  }
+
+  /* Encabezado: línea de luz y resplandor violeta debajo */
+  .AppHeader,
+  .Header,
+  header[role="banner"] {
+    box-shadow: 0 1px 0 rgba(124, 58, 237, 0.4), 0 10px 34px -16px rgba(124, 58, 237, 0.55) !important;
+  }
+
+  /* El logo de GitHub, en lavanda y con un halo */
+  .octicon-mark-github,
+  .AppHeader-logo svg,
+  .Header-link svg {
+    color: #c4b5fd !important;
+    filter: drop-shadow(0 0 7px rgba(167, 139, 250, 0.55));
+  }
+
+  /* Tarjetas: un brillo de borde al pasar el mouse */
+  .Box,
+  .Box-row,
+  .repo-list-item,
+  .markdown-body table {
+    transition: border-color 0.2s ease, box-shadow 0.25s ease;
+  }
+  .Box:hover {
+    border-color: #4c1d95 !important;
+    box-shadow: 0 0 0 1px rgba(124, 58, 237, 0.18), 0 14px 40px -22px rgba(124, 58, 237, 0.6);
+  }
+
+  /* Avatares: marco de luz */
+  img.avatar,
+  .avatar-user {
+    outline: 1px solid rgba(167, 139, 250, 0.45) !important;
+    box-shadow: 0 0 18px -4px rgba(139, 92, 246, 0.55);
+  }
+
+  /* Selección de texto y barras de desplazamiento */
+  ::selection {
+    background: rgba(124, 58, 237, 0.6);
+    color: #fff;
+  }
+  html {
+    scrollbar-color: #5b21b6 #07040d;
+  }
+  ::-webkit-scrollbar {
+    width: 11px;
+    height: 11px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #07040d;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #3b1a73;
+    border-radius: 6px;
+    border: 2px solid #07040d;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #5b21b6;
+  }
+
+  /* Títulos de contenido con la tipografía del Monarca (solo si está instalada) */
+  h1,
+  h2,
+  .f1,
+  .f2,
+  .Header-link,
+  .AppHeader-context-item {
+    font-family: 'Oxanium', var(--fontStack-system, system-ui), sans-serif;
+    letter-spacing: 0.02em;
+  }
+
+  /* Sin movimiento si el sistema lo pide */
+  @media (prefers-reduced-motion: reduce) {
+    .Box,
+    .Box-row,
+    .repo-list-item {
+      transition: none;
+    }
+  }
+}
