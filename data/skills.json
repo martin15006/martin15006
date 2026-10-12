@@ -1,0 +1,57 @@
+{
+  "_nota": "Rangos y rarezas son autoevaluación (puesta por Claude como punto de partida): corregilos. Rangos: E D C B A S. Rarezas: común | raro | épico | legendario.",
+  "categories": [
+    {
+      "name": "Web",
+      "skills": [
+        { "name": "JavaScript", "rank": "B" },
+        { "name": "TypeScript", "rank": "C" },
+        { "name": "React", "rank": "B" },
+        { "name": "Node.js", "rank": "B" },
+        { "name": "HTML y CSS", "rank": "B" }
+      ]
+    },
+    {
+      "name": "Datos y nube",
+      "skills": [
+        { "name": "PostgreSQL", "rank": "C" },
+        { "name": "Supabase", "rank": "C" },
+        { "name": "Docker", "rank": "C" },
+        { "name": "Git y GitHub", "rank": "B" }
+      ]
+    },
+    {
+      "name": "IA",
+      "skills": [
+        { "name": "Python", "rank": "B" },
+        { "name": "Claude Code", "rank": "A" },
+        { "name": "Agentes", "rank": "B" },
+        { "name": "Modelos locales", "rank": "C" }
+      ]
+    },
+    {
+      "name": "Juegos",
+      "skills": [
+        { "name": "Godot 4", "rank": "D" },
+        { "name": "Phaser 3", "rank": "C" }
+      ]
+    },
+    {
+      "name": "Seguridad",
+      "skills": [
+        { "name": "Auditoría", "rank": "D" },
+        { "name": "Ciberseguridad", "rank": "E" }
+      ]
+    }
+  ],
+  "gear": [
+    { "name": "Claude Code", "role": "Agente de código", "tier": "legendario" },
+    { "name": "Obsidian", "role": "Mi segundo cerebro", "tier": "épico" },
+    { "name": "VS Code", "role": "Editor", "tier": "raro" },
+    { "name": "Docker", "role": "Contenedores", "tier": "raro" },
+    { "name": "Godot 4", "role": "Motor de juegos", "tier": "raro" },
+    { "name": "Ollama", "role": "Modelos locales", "tier": "raro" },
+    { "name": "Git", "role": "Control de versiones", "tier": "común" },
+    { "name": "Chrome", "role": "Banco de pruebas", "tier": "común" }
+  ]
+}

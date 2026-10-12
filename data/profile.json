@@ -1,0 +1,57 @@
+{
+  "login": "martin15006",
+  "displayName": "Martín",
+  "alias": "Monarca de las Sombras",
+  "tagline": "Yo solo subo de nivel.",
+  "titles": [
+    "Domador de agentes",
+    "Constructor de sistemas"
+  ],
+  "attributes": [
+    {
+      "name": "Backend",
+      "value": 62
+    },
+    {
+      "name": "Interfaz",
+      "value": 70
+    },
+    {
+      "name": "Juegos",
+      "value": 45
+    },
+    {
+      "name": "IA",
+      "value": 58
+    },
+    {
+      "name": "Seguridad",
+      "value": 30
+    }
+  ],
+  "portals": [
+    {
+      "label": "Hoja de personaje",
+      "url": "https://cv-app-lemon.vercel.app"
+    }
+  ],
+  "hide": [
+    "martin15006",
+    "skills-del-sistema"
+  ],
+  "levelOverride": null,
+  "rankOverride": null,
+  "salaUrl": "https://martin15006.github.io/martin15006/",
+  "extraNotes": [
+    {
+      "title": "En entrenamiento",
+      "rank": "E",
+      "text": "Node.js de punta a punta y ciberseguridad, un nivel a la vez."
+    },
+    {
+      "title": "Regla del Monarca",
+      "rank": "S",
+      "text": "Nunca copiar: cada cosa nueva lleva su propia identidad."
+    }
+  ]
+}

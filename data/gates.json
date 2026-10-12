@@ -1,0 +1,109 @@
+{
+  "_nota": "Rangos, estados y textos son MÍOS (de Claude) como punto de partida: corregilos a tu gusto. Estados: abierta (en curso, roja) | despejada (terminada, violeta). Rangos: E D C B A S.",
+  "featured": [
+    {
+      "repo": "sisvia",
+      "rank": "S",
+      "state": "abierta",
+      "blurb": "Sistema de monitoreo vehicular para empresas: chequeos preoperacionales, alertas y vencimientos por rol.",
+      "shadows": [
+        "React",
+        "Node.js",
+        "Supabase"
+      ],
+      "secret": "Aprendí a pensar un producto para muchas empresas, no para una sola."
+    },
+    {
+      "repo": "proyecto_parqueadero",
+      "rank": "A",
+      "state": "despejada",
+      "blurb": "Parqueadero full-stack: panel web, app móvil de Android y API, desplegado con Docker.",
+      "shadows": [
+        "NestJS",
+        "React",
+        "Expo",
+        "Docker"
+      ],
+      "secret": "De correr en mi PC a estar en internet: Docker, despliegue y una app móvil instalable."
+    },
+    {
+      "repo": "navegador-visible",
+      "rank": "A",
+      "state": "despejada",
+      "blurb": "Skill de Claude Code que prueba todo en una ventana real de Chrome, narrando cada paso.",
+      "shadows": [
+        "Claude Code",
+        "Agentes",
+        "MIT"
+      ],
+      "lang": "Markdown",
+      "secret": "Una IA que trabaja a la vista: cada paso narrado en una ventana real."
+    },
+    {
+      "repo": "pacto-skill",
+      "rank": "B",
+      "state": "despejada",
+      "blurb": "Skill para acordar por escrito qué se construye y probar al final que se cumplió, criterio por criterio.",
+      "shadows": [
+        "Claude Code",
+        "Método",
+        "MIT"
+      ],
+      "lang": "Markdown",
+      "secret": "Primero se acuerda qué se construye; al final se prueba, criterio por criterio."
+    },
+    {
+      "repo": "jarvis",
+      "rank": "B",
+      "state": "despejada",
+      "blurb": "Mi asistente de IA local: corre en mi PC y no depende de la nube.",
+      "shadows": [
+        "IA local",
+        "HTML",
+        "MIT"
+      ],
+      "secret": "Modelos que corren en mi propia máquina, sin depender de la nube."
+    },
+    {
+      "repo": "detector_emociones",
+      "rank": "B",
+      "state": "abierta",
+      "blurb": "ÁNIMA: detector de emociones faciales con DeepFace, comparado contra otras IAs.",
+      "shadows": [
+        "Python",
+        "DeepFace",
+        "Visión"
+      ],
+      "secret": "Probar la misma idea con varias IAs y comparar, en vez de creerle a una sola."
+    },
+    {
+      "repo": "vi-eta",
+      "rank": "C",
+      "state": "abierta",
+      "blurb": "Viñeta: marca en qué capítulo voy de cada manhwa o libro y avanza con un toque.",
+      "shadows": [
+        "PWA",
+        "JavaScript"
+      ],
+      "secret": "Una app instalable que sigue funcionando sin internet: mi primera PWA."
+    }
+  ],
+  "sealed": {
+    "count": 2,
+    "blurb": "Repos privados: el Sistema los registra, pero no se entra."
+  },
+  "minor": {
+    "flota-sena": "Control de flota vehicular: de aquí nació SISVIA.",
+    "cv-app": "Mi hoja de personaje: CV en línea.",
+    "ollama": "Cliente de escritorio para chatear con mis modelos locales.",
+    "artificial": "Actividades del curso de IA del SENA, en Colab.",
+    "parqueadero": "Primera versión del parqueadero.",
+    "the_system": "Primer intento del Sistema, en JavaScript.",
+    "landding-pages-Grimoire": "Landing pages del Grimorio.",
+    "martin15006.github.io": "Mi página en GitHub Pages.",
+    "desarrollo_git": "Practicando git.",
+    "callback": "Ejercicio: callbacks en JavaScript.",
+    "callback-hell": "Ejercicio: salir del infierno de callbacks.",
+    "git_1": "Mi primer repo: probando cómo funciona git."
+  }
+}

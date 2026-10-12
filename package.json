@@ -1,0 +1,21 @@
+{
+  "name": "martin15006-perfil",
+  "version": "1.0.0",
+  "description": "Perfil de GitHub de martin15006: registro de puertas y ejército de sombras",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:offline": "node scripts/build.mjs --offline",
+    "preview": "node scripts/build.mjs --offline && node scripts/preview-github.mjs"
+  },
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "opentype.js": "^1.3.4"
+  },
+  "devDependencies": {
+    "github-markdown-css": "^5.8.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
