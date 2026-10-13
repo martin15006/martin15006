@@ -31,7 +31,7 @@
 | [`artificial`](https://github.com/martin15006/artificial) | Actividades del curso de IA del SENA, en Colab. | Jupyter Notebook | hace 2 meses |
 | [`flota-sena`](https://github.com/martin15006/flota-sena) | Control de flota vehicular: de aquí nació SISVIA. | JavaScript | hace 3 meses |
 | [`martin15006.github.io`](https://github.com/martin15006/martin15006.github.io) | Mi página en GitHub Pages. | HTML | hace 3 meses |
-| [`parqueadero`](https://github.com/martin15006/parqueadero) | Primera versión del parqueadero. | JavaScript | hace 4 meses |
+| [`parqueadero`](https://github.com/martin15006/parqueadero) | Primera versión del parqueadero. | JavaScript | hace 5 meses |
 | [`the_system`](https://github.com/martin15006/the_system) | Primer intento del Sistema, en JavaScript. | JavaScript | hace 6 meses |
 | [`landding-pages-Grimoire`](https://github.com/martin15006/landding-pages-Grimoire) | Landing pages del Grimorio. | JavaScript | hace 6 meses |
 | [`desarrollo_git`](https://github.com/martin15006/desarrollo_git) | Practicando git. | JavaScript | hace 7 meses |

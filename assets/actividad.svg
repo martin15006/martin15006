@@ -29,7 +29,7 @@
 <circle cx="505" cy="55.5" r="3.5" fill="#a78bfa"/>
 <g fill="#9a8cc4"><g transform="translate(516.0 60) scale(0.0125 -0.0125)"><use href="#g7" x="0"/><use href="#g17" x="600"/><use href="#g37" x="1200"/><use href="#g38" x="1800"/><use href="#g21" x="2400"/><use href="#g39" x="3000"/><use href="#g40" x="3600"/><use href="#g41" x="4200"/></g></g>
 <rect x="690" y="53" width="162" height="5" rx="2.5" fill="#2b1853"/>
-<rect class="l" x="690" y="53" width="157" height="5" rx="2.5" fill="#c4b5fd" style="animation:grow 700ms cubic-bezier(0.23,1,0.32,1) 260ms both"/>
+<rect class="l" x="690" y="53" width="155" height="5" rx="2.5" fill="#c4b5fd" style="animation:grow 700ms cubic-bezier(0.23,1,0.32,1) 260ms both"/>
 </g>
 <g style="animation:rise 420ms cubic-bezier(0.23,1,0.32,1) 155ms both">
 <g fill="#9a8cc4"><g transform="translate(28.0 94) scale(0.0125 -0.0125)"><use href="#g16" x="0"/><use href="#g17" x="600"/><use href="#g18" x="1200"/><use href="#g19" x="1800"/><use href="#g20" x="3000"/><use href="#g23" x="4200"/><use href="#g19" x="4800"/><use href="#g42" x="5400"/></g></g>
@@ -37,7 +37,7 @@
 <circle cx="505" cy="89.5" r="3.5" fill="#a78bfa"/>
 <g fill="#9a8cc4"><g transform="translate(516.0 94) scale(0.0125 -0.0125)"><use href="#g7" x="0"/><use href="#g17" x="600"/><use href="#g37" x="1200"/><use href="#g38" x="1800"/><use href="#g21" x="2400"/><use href="#g39" x="3000"/><use href="#g40" x="3600"/><use href="#g41" x="4200"/></g></g>
 <rect x="690" y="87" width="162" height="5" rx="2.5" fill="#2b1853"/>
-<rect class="l" x="690" y="87" width="113" height="5" rx="2.5" fill="#c4b5fd" style="animation:grow 700ms cubic-bezier(0.23,1,0.32,1) 315ms both"/>
+<rect class="l" x="690" y="87" width="111" height="5" rx="2.5" fill="#c4b5fd" style="animation:grow 700ms cubic-bezier(0.23,1,0.32,1) 315ms both"/>
 </g>
 <g style="animation:rise 420ms cubic-bezier(0.23,1,0.32,1) 210ms both">
 <g fill="#9a8cc4"><g transform="translate(28.0 128) scale(0.0125 -0.0125)"><use href="#g16" x="0"/><use href="#g17" x="600"/><use href="#g18" x="1200"/><use href="#g19" x="1800"/><use href="#g47" x="3000"/><use href="#g23" x="4200"/><use href="#g19" x="4800"/><use href="#g42" x="5400"/></g></g>
@@ -45,7 +45,7 @@
 <circle cx="505" cy="123.5" r="3.5" fill="#a78bfa"/>
 <g fill="#9a8cc4"><g transform="translate(516.0 128) scale(0.0125 -0.0125)"><use href="#g14" x="0"/><use href="#g17" x="600"/><use href="#g48" x="1200"/><use href="#g17" x="1800"/><use href="#g6" x="2400"/><use href="#g18" x="3000"/><use href="#g37" x="3600"/><use href="#g49" x="4200"/><use href="#g50" x="4800"/><use href="#g51" x="5400"/></g></g>
 <rect x="690" y="121" width="162" height="5" rx="2.5" fill="#2b1853"/>
-<rect class="l" x="690" y="121" width="91" height="5" rx="2.5" fill="#8b5cf6" style="animation:grow 700ms cubic-bezier(0.23,1,0.32,1) 370ms both"/>
+<rect class="l" x="690" y="121" width="89" height="5" rx="2.5" fill="#8b5cf6" style="animation:grow 700ms cubic-bezier(0.23,1,0.32,1) 370ms both"/>
 </g>
 <g style="animation:rise 420ms cubic-bezier(0.23,1,0.32,1) 265ms both">
 <g fill="#9a8cc4"><g transform="translate(28.0 162) scale(0.0125 -0.0125)"><use href="#g16" x="0"/><use href="#g17" x="600"/><use href="#g18" x="1200"/><use href="#g19" x="1800"/><use href="#g52" x="3000"/><use href="#g42" x="4200"/><use href="#g19" x="4800"/><use href="#g23" x="5400"/><use href="#g19" x="6000"/><use href="#g23" x="6600"/></g></g>
@@ -53,7 +53,7 @@
 <circle cx="505" cy="157.5" r="3.5" fill="#a78bfa"/>
 <g fill="#9a8cc4"><g transform="translate(516.0 162) scale(0.0125 -0.0125)"><use href="#g14" x="0"/><use href="#g17" x="600"/><use href="#g48" x="1200"/><use href="#g17" x="1800"/><use href="#g6" x="2400"/><use href="#g18" x="3000"/><use href="#g37" x="3600"/><use href="#g49" x="4200"/><use href="#g50" x="4800"/><use href="#g51" x="5400"/></g></g>
 <rect x="690" y="155" width="162" height="5" rx="2.5" fill="#2b1853"/>
-<rect class="l" x="690" y="155" width="10" height="5" rx="2.5" fill="#8b5cf6" style="animation:grow 700ms cubic-bezier(0.23,1,0.32,1) 425ms both"/>
+<rect class="l" x="690" y="155" width="9" height="5" rx="2.5" fill="#8b5cf6" style="animation:grow 700ms cubic-bezier(0.23,1,0.32,1) 425ms both"/>
 </g>
 <g style="animation:rise 420ms cubic-bezier(0.23,1,0.32,1) 320ms both">
 <g fill="#9a8cc4"><g transform="translate(28.0 196) scale(0.0125 -0.0125)"><use href="#g16" x="0"/><use href="#g17" x="600"/><use href="#g18" x="1200"/><use href="#g19" x="1800"/><use href="#g20" x="3000"/><use href="#g42" x="4200"/><use href="#g19" x="4800"/><use href="#g23" x="5400"/><use href="#g19" x="6000"/><use href="#g23" x="6600"/></g></g>
