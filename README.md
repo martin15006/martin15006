@@ -6,7 +6,7 @@
 
 </div>
 
-<img src="assets/ficha.svg" alt="Ficha del jugador: Martín, nivel 16, rango B" width="100%">
+<img src="assets/ficha.svg" alt="Ficha del jugador: Martín, nivel 17, rango B" width="100%">
 
 <img src="assets/mision.svg" alt="Misiones del Sistema: diaria, semanal y principal" width="100%">
 
@@ -21,11 +21,12 @@
 <p><img src="assets/gate-sellada.svg" alt="Puerta sellada. Repos privados: el Sistema los registra, pero no se entra." width="100%"></p>
 
 <details>
-<summary><b>Puertas menores</b> (12) — ejercicios, primeras versiones y experimentos</summary>
+<summary><b>Puertas menores</b> (13) — ejercicios, primeras versiones y experimentos</summary>
 <br>
 
 | Puerta | Qué es | Lenguaje | Última vez |
 |---|---|---|---|
+| [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | hoy |
 | [`cv-app`](https://github.com/martin15006/cv-app) | Mi hoja de personaje: CV en línea. | JavaScript | hace 1 meses |
 | [`ollama`](https://github.com/martin15006/ollama) | Cliente de escritorio para chatear con mis modelos locales. | Python | hace 2 meses |
 | [`artificial`](https://github.com/martin15006/artificial) | Actividades del curso de IA del SENA, en Colab. | Jupyter Notebook | hace 2 meses |
