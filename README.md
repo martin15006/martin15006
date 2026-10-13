@@ -6,13 +6,12 @@
 
 </div>
 
-<img src="assets/ficha.svg" alt="Ficha del jugador: Martín, nivel 18, rango B" width="100%">
+<img src="assets/ficha.svg" alt="Ficha del jugador: Martín, nivel 16, rango B" width="100%">
 
 <img src="assets/mision.svg" alt="Misiones del Sistema: diaria, semanal y principal" width="100%">
 
 ## <img src="assets/h-puertas.svg" alt="Registro de puertas" width="100%">
 
-<p><a href="https://github.com/martin15006/sisvia"><img src="assets/gate-sisvia.svg" alt="Puerta sisvia, rango S, abierta. Sistema de monitoreo vehicular para empresas: chequeos preoperacionales, alertas y vencimientos por rol." width="100%"></a></p>
 <p><a href="https://github.com/martin15006/proyecto_parqueadero"><img src="assets/gate-proyecto_parqueadero.svg" alt="Puerta proyecto_parqueadero, rango A, despejada. Parqueadero full-stack: panel web, app móvil de Android y API, desplegado con Docker." width="100%"></a></p>
 <p><a href="https://github.com/martin15006/navegador-visible"><img src="assets/gate-navegador-visible.svg" alt="Puerta navegador-visible, rango A, despejada. Skill de Claude Code que prueba todo en una ventana real de Chrome, narrando cada paso." width="100%"></a></p>
 <p><a href="https://github.com/martin15006/pacto-skill"><img src="assets/gate-pacto-skill.svg" alt="Puerta pacto-skill, rango B, despejada. Skill para acordar por escrito qué se construye y probar al final que se cumplió, criterio por criterio." width="100%"></a></p>

@@ -20,7 +20,7 @@
 @media (prefers-reduced-motion:reduce){
   *{animation-duration:.001s!important;animation-iteration-count:1!important;animation-delay:0s!important}
 }
-.edge{animation:edge 10s cubic-bezier(0.77,0,0.175,1) 1.7s infinite}
+.edge{animation:edge 10s cubic-bezier(0.77,0,0.175,1) 0.0s infinite}
 @keyframes edge{0%{transform:translateX(0)}26%{transform:translateX(1020px)}100%{transform:translateX(1020px)}}
 .dotp{animation:ring 2.4s cubic-bezier(0.23,1,0.32,1) infinite}
 .hp{animation:ring 3.4s cubic-bezier(0.23,1,0.32,1) infinite}</style>
