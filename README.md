@@ -27,7 +27,7 @@
 | Puerta | Qué es | Lenguaje | Última vez |
 |---|---|---|---|
 | [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | ayer |
-| [`higman`](https://github.com/martin15006/higman) | — | Python | ayer |
+| [`higman`](https://github.com/martin15006/higman) | — | Python | hace 2 días |
 | [`cv-app`](https://github.com/martin15006/cv-app) | Mi hoja de personaje: CV en línea. | JavaScript | hace 2 meses |
 | [`ollama`](https://github.com/martin15006/ollama) | Cliente de escritorio para chatear con mis modelos locales. | Python | hace 2 meses |
 | [`artificial`](https://github.com/martin15006/artificial) | Actividades del curso de IA del SENA, en Colab. | Jupyter Notebook | hace 2 meses |
@@ -37,7 +37,7 @@
 | [`the_system`](https://github.com/martin15006/the_system) | Primer intento del Sistema, en JavaScript. | JavaScript | hace 6 meses |
 | [`landding-pages-Grimoire`](https://github.com/martin15006/landding-pages-Grimoire) | Landing pages del Grimorio. | JavaScript | hace 6 meses |
 | [`desarrollo_git`](https://github.com/martin15006/desarrollo_git) | Practicando git. | JavaScript | hace 7 meses |
-| [`callback-hell`](https://github.com/martin15006/callback-hell) | Ejercicio: salir del infierno de callbacks. | — | hace 7 meses |
+| [`callback-hell`](https://github.com/martin15006/callback-hell) | Ejercicio: salir del infierno de callbacks. | — | hace 8 meses |
 | [`callback`](https://github.com/martin15006/callback) | Ejercicio: callbacks en JavaScript. | JavaScript | hace 8 meses |
 | [`git_1`](https://github.com/martin15006/git_1) | Mi primer repo: probando cómo funciona git. | JavaScript | hace 8 meses |
 
