@@ -29,7 +29,7 @@
 <circle cx="505" cy="55.5" r="3.5" fill="#a78bfa"/>
 <g fill="#9a8cc4"><g transform="translate(516.0 60) scale(0.0125 -0.0125)"><use href="#g14" x="0"/><use href="#g24" x="600"/><use href="#g25" x="1200"/><use href="#g24" x="1800"/><use href="#g6" x="2400"/><use href="#g26" x="3000"/><use href="#g27" x="3600"/><use href="#g28" x="4200"/><use href="#g29" x="4800"/><use href="#g30" x="5400"/></g></g>
 <rect x="690" y="53" width="162" height="5" rx="2.5" fill="#2b1853"/>
-<rect class="l" x="690" y="53" width="160" height="5" rx="2.5" fill="#c4b5fd" style="animation:grow 700ms cubic-bezier(0.23,1,0.32,1) 260ms both"/>
+<rect class="l" x="690" y="53" width="162" height="5" rx="2.5" fill="#c4b5fd" style="animation:grow 700ms cubic-bezier(0.23,1,0.32,1) 260ms both"/>
 </g>
 <g style="animation:rise 420ms cubic-bezier(0.23,1,0.32,1) 155ms both">
 <g fill="#9a8cc4"><g transform="translate(28.0 94) scale(0.0125 -0.0125)"><use href="#g16" x="0"/><use href="#g24" x="600"/><use href="#g26" x="1200"/><use href="#g31" x="1800"/><use href="#g32" x="3000"/><use href="#g33" x="4200"/><use href="#g34" x="4800"/><use href="#g24" x="5400"/><use href="#g35" x="6000"/></g></g>
@@ -37,7 +37,7 @@
 <circle cx="505" cy="89.5" r="3.5" fill="#a78bfa"/>
 <g fill="#9a8cc4"><g transform="translate(516.0 94) scale(0.0125 -0.0125)"><use href="#g41" x="0"/><use href="#g18" x="600"/><use href="#g30" x="1200"/><use href="#g16" x="1800"/><use href="#g17" x="2400"/><use href="#g42" x="3000"/></g></g>
 <rect x="690" y="87" width="162" height="5" rx="2.5" fill="#2b1853"/>
-<rect class="l" x="690" y="87" width="148" height="5" rx="2.5" fill="#c4b5fd" style="animation:grow 700ms cubic-bezier(0.23,1,0.32,1) 315ms both"/>
+<rect class="l" x="690" y="87" width="147" height="5" rx="2.5" fill="#c4b5fd" style="animation:grow 700ms cubic-bezier(0.23,1,0.32,1) 315ms both"/>
 </g>
 <g style="animation:rise 420ms cubic-bezier(0.23,1,0.32,1) 210ms both">
 <g fill="#9a8cc4"><g transform="translate(28.0 128) scale(0.0125 -0.0125)"><use href="#g16" x="0"/><use href="#g24" x="600"/><use href="#g26" x="1200"/><use href="#g31" x="1800"/><use href="#g43" x="3000"/><use href="#g35" x="4200"/><use href="#g31" x="4800"/><use href="#g44" x="5400"/></g></g>
