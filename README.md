@@ -26,8 +26,8 @@
 
 | Puerta | Qué es | Lenguaje | Última vez |
 |---|---|---|---|
-| [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | ayer |
-| [`higman`](https://github.com/martin15006/higman) | — | Python | hace 6 días |
+| [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | hoy |
+| [`higman`](https://github.com/martin15006/higman) | — | Python | hace 1 sem |
 | [`cv-app`](https://github.com/martin15006/cv-app) | Mi hoja de personaje: CV en línea. | JavaScript | hace 2 meses |
 | [`ollama`](https://github.com/martin15006/ollama) | Cliente de escritorio para chatear con mis modelos locales. | Python | hace 2 meses |
 | [`artificial`](https://github.com/martin15006/artificial) | Actividades del curso de IA del SENA, en Colab. | Jupyter Notebook | hace 2 meses |
