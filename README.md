@@ -21,12 +21,13 @@
 <p><img src="assets/gate-sellada.svg" alt="Puerta sellada. Repos privados: el Sistema los registra, pero no se entra." width="100%"></p>
 
 <details>
-<summary><b>Puertas menores</b> (14) — ejercicios, primeras versiones y experimentos</summary>
+<summary><b>Puertas menores</b> (15) — ejercicios, primeras versiones y experimentos</summary>
 <br>
 
 | Puerta | Qué es | Lenguaje | Última vez |
 |---|---|---|---|
-| [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | hace 4 días |
+| [`vigilancia`](https://github.com/martin15006/vigilancia) | — | JavaScript | hoy |
+| [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | hace 5 días |
 | [`higman`](https://github.com/martin15006/higman) | — | Python | hace 1 sem |
 | [`cv-app`](https://github.com/martin15006/cv-app) | Mi hoja de personaje: CV en línea. | JavaScript | hace 2 meses |
 | [`ollama`](https://github.com/martin15006/ollama) | Cliente de escritorio para chatear con mis modelos locales. | Python | hace 2 meses |
