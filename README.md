@@ -6,7 +6,7 @@
 
 </div>
 
-<img src="assets/ficha.svg" alt="Ficha del jugador: Martín, nivel 17, rango B" width="100%">
+<img src="assets/ficha.svg" alt="Ficha del jugador: Martín, nivel 18, rango B" width="100%">
 
 <img src="assets/mision.svg" alt="Misiones del Sistema: diaria, semanal y principal" width="100%">
 
