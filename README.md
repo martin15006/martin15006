@@ -26,8 +26,8 @@
 
 | Puerta | Qué es | Lenguaje | Última vez |
 |---|---|---|---|
-| [`vigilancia`](https://github.com/martin15006/vigilancia) | — | JavaScript | hace 3 días |
-| [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | hace 5 días |
+| [`vigilancia`](https://github.com/martin15006/vigilancia) | — | JavaScript | hace 4 días |
+| [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | hace 6 días |
 | [`higman`](https://github.com/martin15006/higman) | — | Python | hace 3 sem |
 | [`cv-app`](https://github.com/martin15006/cv-app) | Mi hoja de personaje: CV en línea. | JavaScript | hace 2 meses |
 | [`ollama`](https://github.com/martin15006/ollama) | Cliente de escritorio para chatear con mis modelos locales. | Python | hace 3 meses |
