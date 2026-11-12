@@ -26,10 +26,10 @@
 
 | Puerta | Qué es | Lenguaje | Última vez |
 |---|---|---|---|
+| [`vigilancia`](https://github.com/martin15006/vigilancia) | — | JavaScript | hoy |
+| [`entrevistas`](https://github.com/martin15006/entrevistas) | — | JavaScript | hoy |
 | [`skills-del-sistema-public`](https://github.com/martin15006/skills-del-sistema-public) | — | PowerShell | hoy |
 | [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | hoy |
-| [`entrevistas`](https://github.com/martin15006/entrevistas) | — | JavaScript | hoy |
-| [`vigilancia`](https://github.com/martin15006/vigilancia) | — | JavaScript | hoy |
 | [`higman`](https://github.com/martin15006/higman) | — | Python | hace 3 sem |
 | [`cv-app`](https://github.com/martin15006/cv-app) | Mi hoja de personaje: CV en línea. | JavaScript | hace 2 meses |
 | [`ollama`](https://github.com/martin15006/ollama) | Cliente de escritorio para chatear con mis modelos locales. | Python | hace 3 meses |
