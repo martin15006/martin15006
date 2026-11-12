@@ -6,7 +6,7 @@
 
 </div>
 
-<img src="assets/ficha.svg" alt="Ficha del jugador: Martín, nivel 18, rango B" width="100%">
+<img src="assets/ficha.svg" alt="Ficha del jugador: Martín, nivel 19, rango B" width="100%">
 
 <img src="assets/mision.svg" alt="Misiones del Sistema: diaria, semanal y principal" width="100%">
 
@@ -21,20 +21,22 @@
 <p><img src="assets/gate-sellada.svg" alt="Puerta sellada. Repos privados: el Sistema los registra, pero no se entra." width="100%"></p>
 
 <details>
-<summary><b>Puertas menores</b> (15) — ejercicios, primeras versiones y experimentos</summary>
+<summary><b>Puertas menores</b> (17) — ejercicios, primeras versiones y experimentos</summary>
 <br>
 
 | Puerta | Qué es | Lenguaje | Última vez |
 |---|---|---|---|
-| [`vigilancia`](https://github.com/martin15006/vigilancia) | — | JavaScript | hoy |
+| [`skills-del-sistema-public`](https://github.com/martin15006/skills-del-sistema-public) | — | PowerShell | hoy |
 | [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | hoy |
+| [`entrevistas`](https://github.com/martin15006/entrevistas) | — | JavaScript | hoy |
+| [`vigilancia`](https://github.com/martin15006/vigilancia) | — | JavaScript | hoy |
 | [`higman`](https://github.com/martin15006/higman) | — | Python | hace 3 sem |
 | [`cv-app`](https://github.com/martin15006/cv-app) | Mi hoja de personaje: CV en línea. | JavaScript | hace 2 meses |
 | [`ollama`](https://github.com/martin15006/ollama) | Cliente de escritorio para chatear con mis modelos locales. | Python | hace 3 meses |
 | [`artificial`](https://github.com/martin15006/artificial) | Actividades del curso de IA del SENA, en Colab. | Jupyter Notebook | hace 3 meses |
 | [`flota-sena`](https://github.com/martin15006/flota-sena) | Control de flota vehicular: de aquí nació SISVIA. | JavaScript | hace 4 meses |
 | [`martin15006.github.io`](https://github.com/martin15006/martin15006.github.io) | Mi página en GitHub Pages. | HTML | hace 4 meses |
-| [`parqueadero`](https://github.com/martin15006/parqueadero) | Primera versión del parqueadero. | JavaScript | hace 5 meses |
+| [`parqueadero`](https://github.com/martin15006/parqueadero) | Primera versión del parqueadero. | JavaScript | hace 6 meses |
 | [`the_system`](https://github.com/martin15006/the_system) | Primer intento del Sistema, en JavaScript. | JavaScript | hace 7 meses |
 | [`landding-pages-Grimoire`](https://github.com/martin15006/landding-pages-Grimoire) | Landing pages del Grimorio. | JavaScript | hace 7 meses |
 | [`desarrollo_git`](https://github.com/martin15006/desarrollo_git) | Practicando git. | JavaScript | hace 8 meses |
