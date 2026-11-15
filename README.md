@@ -27,12 +27,12 @@
 | Puerta | Qué es | Lenguaje | Última vez |
 |---|---|---|---|
 | [`flota-sena`](https://github.com/martin15006/flota-sena) | Control de flota vehicular: de aquí nació SISVIA. | JavaScript | ayer |
-| [`entrevistas`](https://github.com/martin15006/entrevistas) | — | JavaScript | ayer |
-| [`vigilancia`](https://github.com/martin15006/vigilancia) | — | JavaScript | ayer |
+| [`entrevistas`](https://github.com/martin15006/entrevistas) | — | JavaScript | hace 2 días |
+| [`vigilancia`](https://github.com/martin15006/vigilancia) | — | JavaScript | hace 2 días |
 | [`skills-del-sistema-public`](https://github.com/martin15006/skills-del-sistema-public) | — | PowerShell | hace 3 días |
 | [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | hace 3 días |
-| [`higman`](https://github.com/martin15006/higman) | — | Python | hace 4 sem |
-| [`cv-app`](https://github.com/martin15006/cv-app) | Mi hoja de personaje: CV en línea. | JavaScript | hace 2 meses |
+| [`higman`](https://github.com/martin15006/higman) | — | Python | hace 1 meses |
+| [`cv-app`](https://github.com/martin15006/cv-app) | Mi hoja de personaje: CV en línea. | JavaScript | hace 3 meses |
 | [`ollama`](https://github.com/martin15006/ollama) | Cliente de escritorio para chatear con mis modelos locales. | Python | hace 3 meses |
 | [`artificial`](https://github.com/martin15006/artificial) | Actividades del curso de IA del SENA, en Colab. | Jupyter Notebook | hace 3 meses |
 | [`martin15006.github.io`](https://github.com/martin15006/martin15006.github.io) | Mi página en GitHub Pages. | HTML | hace 4 meses |
@@ -41,8 +41,8 @@
 | [`landding-pages-Grimoire`](https://github.com/martin15006/landding-pages-Grimoire) | Landing pages del Grimorio. | JavaScript | hace 7 meses |
 | [`desarrollo_git`](https://github.com/martin15006/desarrollo_git) | Practicando git. | JavaScript | hace 8 meses |
 | [`callback-hell`](https://github.com/martin15006/callback-hell) | Ejercicio: salir del infierno de callbacks. | — | hace 8 meses |
-| [`callback`](https://github.com/martin15006/callback) | Ejercicio: callbacks en JavaScript. | JavaScript | hace 8 meses |
-| [`git_1`](https://github.com/martin15006/git_1) | Mi primer repo: probando cómo funciona git. | JavaScript | hace 8 meses |
+| [`callback`](https://github.com/martin15006/callback) | Ejercicio: callbacks en JavaScript. | JavaScript | hace 9 meses |
+| [`git_1`](https://github.com/martin15006/git_1) | Mi primer repo: probando cómo funciona git. | JavaScript | hace 9 meses |
 
 </details>
 
