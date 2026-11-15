@@ -26,10 +26,10 @@
 
 | Puerta | Qué es | Lenguaje | Última vez |
 |---|---|---|---|
-| [`flota-sena`](https://github.com/martin15006/flota-sena) | Control de flota vehicular: de aquí nació SISVIA. | JavaScript | hoy |
+| [`flota-sena`](https://github.com/martin15006/flota-sena) | Control de flota vehicular: de aquí nació SISVIA. | JavaScript | ayer |
 | [`entrevistas`](https://github.com/martin15006/entrevistas) | — | JavaScript | ayer |
 | [`vigilancia`](https://github.com/martin15006/vigilancia) | — | JavaScript | ayer |
-| [`skills-del-sistema-public`](https://github.com/martin15006/skills-del-sistema-public) | — | PowerShell | hace 2 días |
+| [`skills-del-sistema-public`](https://github.com/martin15006/skills-del-sistema-public) | — | PowerShell | hace 3 días |
 | [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | hace 3 días |
 | [`higman`](https://github.com/martin15006/higman) | — | Python | hace 4 sem |
 | [`cv-app`](https://github.com/martin15006/cv-app) | Mi hoja de personaje: CV en línea. | JavaScript | hace 2 meses |
