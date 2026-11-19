@@ -21,16 +21,15 @@
 <p><img src="assets/gate-sellada.svg" alt="Puerta sellada. Repos privados: el Sistema los registra, pero no se entra." width="100%"></p>
 
 <details>
-<summary><b>Puertas menores</b> (17) — ejercicios, primeras versiones y experimentos</summary>
+<summary><b>Puertas menores</b> (16) — ejercicios, primeras versiones y experimentos</summary>
 <br>
 
 | Puerta | Qué es | Lenguaje | Última vez |
 |---|---|---|---|
 | [`entrevistas`](https://github.com/martin15006/entrevistas) | — | JavaScript | hoy |
-| [`vigilancia`](https://github.com/martin15006/vigilancia) | — | JavaScript | hoy |
-| [`flota-sena`](https://github.com/martin15006/flota-sena) | Control de flota vehicular: de aquí nació SISVIA. | JavaScript | hace 4 días |
-| [`skills-del-sistema-public`](https://github.com/martin15006/skills-del-sistema-public) | — | PowerShell | hace 6 días |
-| [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | hace 6 días |
+| [`flota-sena`](https://github.com/martin15006/flota-sena) | Control de flota vehicular: de aquí nació SISVIA. | JavaScript | hace 5 días |
+| [`skills-del-sistema-public`](https://github.com/martin15006/skills-del-sistema-public) | — | PowerShell | hace 1 sem |
+| [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | hace 1 sem |
 | [`higman`](https://github.com/martin15006/higman) | — | Python | hace 1 meses |
 | [`cv-app`](https://github.com/martin15006/cv-app) | Mi hoja de personaje: CV en línea. | JavaScript | hace 3 meses |
 | [`ollama`](https://github.com/martin15006/ollama) | Cliente de escritorio para chatear con mis modelos locales. | Python | hace 3 meses |
