@@ -33,7 +33,7 @@
 | [`higman`](https://github.com/martin15006/higman) | — | Python | hace 1 meses |
 | [`cv-app`](https://github.com/martin15006/cv-app) | Mi hoja de personaje: CV en línea. | JavaScript | hace 3 meses |
 | [`ollama`](https://github.com/martin15006/ollama) | Cliente de escritorio para chatear con mis modelos locales. | Python | hace 3 meses |
-| [`artificial`](https://github.com/martin15006/artificial) | Actividades del curso de IA del SENA, en Colab. | Jupyter Notebook | hace 3 meses |
+| [`artificial`](https://github.com/martin15006/artificial) | Actividades del curso de IA del SENA, en Colab. | Jupyter Notebook | hace 4 meses |
 | [`martin15006.github.io`](https://github.com/martin15006/martin15006.github.io) | Mi página en GitHub Pages. | HTML | hace 5 meses |
 | [`parqueadero`](https://github.com/martin15006/parqueadero) | Primera versión del parqueadero. | JavaScript | hace 6 meses |
 | [`the_system`](https://github.com/martin15006/the_system) | Primer intento del Sistema, en JavaScript. | JavaScript | hace 7 meses |
