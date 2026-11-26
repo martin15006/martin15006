@@ -28,7 +28,7 @@
 |---|---|---|---|
 | [`entrevistas`](https://github.com/martin15006/entrevistas) | — | JavaScript | hace 6 días |
 | [`flota-sena`](https://github.com/martin15006/flota-sena) | Control de flota vehicular: de aquí nació SISVIA. | JavaScript | hace 1 sem |
-| [`skills-del-sistema-public`](https://github.com/martin15006/skills-del-sistema-public) | — | PowerShell | hace 1 sem |
+| [`skills-del-sistema-public`](https://github.com/martin15006/skills-del-sistema-public) | — | PowerShell | hace 2 sem |
 | [`asotra`](https://github.com/martin15006/asotra) | — | JavaScript | hace 2 sem |
 | [`higman`](https://github.com/martin15006/higman) | — | Python | hace 1 meses |
 | [`cv-app`](https://github.com/martin15006/cv-app) | Mi hoja de personaje: CV en línea. | JavaScript | hace 3 meses |
